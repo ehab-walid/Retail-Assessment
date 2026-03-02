@@ -1,6 +1,6 @@
 # 🛒 Retail Shelf Object Detection & Share of Shelf Analytics
 
-This project implements an end-to-end object detection system for automated retail shelf monitoring using **YOLOv8 (Ultralytics)**.
+This project implements an end-to-end object detection system for automated retail shelf monitoring using **YOLOv8 (Ultralytics)**. All the work for the assessment was done in the **"Retail_Detection_Final.ipynb"** file.
 
 ---
 
@@ -76,7 +76,7 @@ This folder is used to copy and store:
 
 - The notebook includes a script that automatically copies training outputs into this directory.
 
-After the mentioned changes, running the notebook file from Google Colab should reproduce the same results.
+After the mentioned changes, running the notebook file **"Retail_Detection_Final.ipynb"** from Google Colab should reproduce the same results.
 
 ## Inference
 
