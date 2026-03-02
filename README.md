@@ -78,6 +78,8 @@ This folder is used to copy and store:
 
 After the mentioned changes, running the notebook file from Google Colab should reproduce the same results.
 
-** To run inference, please use "best.pt" model. This is the final baseline model which was chosen. **
+## Inference
+
+**To run inference, please use "best.pt" model. This is the final baseline model which was chosen.**
 
 The inference script is included in a seperate notebook file "inference.ipynb". This would generate a "run" folder in the content directory of colab with resulted images in the "predict" folder.
